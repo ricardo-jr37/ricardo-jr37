@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, I'm Ricardo Junior!
 
-<!--
-**ricardo-jr37/ricardo-jr37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineer from the Universidade Federal do Ceará (UFC-Brazil)
 
-Here are some ideas to get you started:
+💻 Data Scientist  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/ricardo-junior37/" rel="some text">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://t.me/ricardo_jr37" rel="some text">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+
+**About Me:**
+- 🎯 I’m currently working on Python, mainly applied in the areas of data science and business intelligence;
+- 📚 I’m currently learning Hadoop and Databases Management;
+- 📖 I have notions of web development using frameworks JavaScript (for systems development) and Wordpress, HTML and CSS (for website construction);
+- 💝 I love learn new things and share knowledge.
+
+#### Soft Skills:
+- 🎯 Cooperation
+- 🗣️ Good communication
+- 🧠 Knowledge
+- ♻️ Resilience
+
+# Main Repositories
+Some public repositories, most containing study projects.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardo-jr37&repo=maximizar_vendas_ml&theme=radical)](https://github.com/ricardo-jr37/maximizar_vendas_ml)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardo-jr37&repo=botjulia&theme=radical)](https://github.com/ricardo-jr37/botjulia)
+
+
+![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-jr37&show_icons=true&theme=radical)
