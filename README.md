@@ -22,7 +22,7 @@
 # Main Repositories
 Some public repositories, most containing study projects.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardo-jr37&repo=maximizar_vendas_ml&theme=radical)](https://github.com/ricardo-jr37/maximizar_vendas_ml)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardo-jr37&repo=superstore_data&theme=radical)](https://github.com/ricardo-jr37/superstore_data)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardo-jr37&repo=botjulia&theme=radical)](https://github.com/ricardo-jr37/botjulia)
 
 
