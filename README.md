@@ -23,7 +23,7 @@
 Some public repositories, most containing study projects.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardo-jr37&repo=superstore_data&theme=radical)](https://github.com/ricardo-jr37/superstore_data)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardo-jr37&repo=botjulia&theme=radical)](https://github.com/ricardo-jr37/botjulia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardo-jr37&repo=decomposicao_timeseries&theme=radical)](https://github.com/ricardo-jr37/decomposicao_timeseries)
 
 
 ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-jr37&show_icons=true&theme=radical)
