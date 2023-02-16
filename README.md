@@ -2,7 +2,7 @@
 
 🎓 Computer Engineer from the Universidade Federal do Ceará (UFC-Brazil)
 
-💻 Data Scientist  
+💻 Data Engineer
 
 <a href="https://www.linkedin.com/in/ricardo-junior37/" rel="some text">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://t.me/ricardo_jr37" rel="some text">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
